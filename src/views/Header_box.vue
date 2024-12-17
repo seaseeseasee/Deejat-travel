@@ -79,12 +79,7 @@ const handleLogout = () => {
     <div class="icon_title">
       <div href="#" class="logo_icon">
         <router-link :to="{ name: 'main' }">
-          <img
-            src="https://cdn.discordapp.com/attachments/1153766321666932836/1162317327547777034/DeeJai.png?ex=653b7f5d&is=65290a5d&hm=3e9fe6bad05c206667c205c02e17d0e3349f3b7b38c52ce173a9017b76754098&"
-            alt="iocon_logo"
-            width="60"
-            height="60"
-          />
+          
         </router-link>
         <span class="title_box">DeeJai Travel</span>
       </div>
