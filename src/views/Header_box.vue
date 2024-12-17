@@ -79,9 +79,9 @@ const handleLogout = () => {
     <div class="icon_title">
       <div href="#" class="logo_icon">
         <router-link :to="{ name: 'main' }">
-          
+          <a  class="title_box"> DeeJai Travel</a>
         </router-link>
-        <span class="title_box">DeeJai Travel</span>
+
       </div>
     </div>
 
